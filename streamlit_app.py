@@ -41,4 +41,4 @@ st.altair_chart(alt.Chart(df, height=700, width=700)
 
 st.write('Hello world!')
 st.text('Preformated text!')
-st.markdown('- first - second')
+st.markdown('- first\n- second')
